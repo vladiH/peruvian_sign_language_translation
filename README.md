@@ -61,6 +61,27 @@ El software para la recolecion de datos se desarrollado en <a href="https://docs
 </ul>  
 
 
+## Citing
+
+
+```python
+@InProceedings{10.1007/978-3-030-46140-9_16,
+author="Vargas, Yuri Vladimir Huallpa
+and Ccasa, Naysha Naydu Diaz
+and Rodas, Lauro Enciso",
+editor="Lossio-Ventura, Juan Antonio
+and Condori-Fernandez, Nelly
+and Valverde-Rebaza, Jorge Carlos",
+title="Peruvian Sign Language Recognition Using a Hybrid Deep Neural Network",
+booktitle="Information Management and Big Data",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="165--172",
+isbn="978-3-030-46140-9"
+}
+```
+
 
 ```python
 
